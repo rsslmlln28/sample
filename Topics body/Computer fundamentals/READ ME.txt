@@ -1,0 +1,15 @@
+Order of pages 
+
+Computer Fundamentals | Basics Computer Concepts
+Computer Fundamentals | History of Computer
+Computer Fundamentals | Generations of Computer
+Computer Fundamentals | Types of Computer
+Computer Fundamentals | Computer Hardware & Software
+
+Computer.Fundamentals.htm is the first page
+Computer.Hardware.&.Software.htm is the last page
+
+At the last page, change the hyperlink to the homepage(index). Link it on the HOME icon.
+
+
+-Matyoo.Timoti
